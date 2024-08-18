@@ -1,7 +1,7 @@
 ### Setup and installation of Minikube in Ubuntu22
 
 - Pre-requisits:
-    - [Installing Docker in Ubuntu](https://github.com/pasindu-sandaruwan/my-cheatsheets/blob/main/Docker/installing-docker-in-ubuntu.md)
+    - [Installing Docker in Ubuntu](https://github.com/pasindu-sandaruwan/my-cheatsheets/blob/main/Docker/1-installing-docker-in-ubuntu.md)
  
 1. Instal Minikube
 Ref: [Official Minikube Documentation](https://minikube.sigs.k8s.io/)
