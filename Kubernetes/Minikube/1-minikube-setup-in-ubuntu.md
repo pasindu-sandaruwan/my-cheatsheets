@@ -18,15 +18,6 @@ sudo install minikube-linux-amd64 /usr/local/bin/minikube && rm minikube-linux-a
 minikube start
 ```
 
-> [!CAUTION]
-> If the following error is occured: \
-> **Command 'kubectl' not found, but can be installed with**
-
-- Install via Snap (recommended for Ubuntu)
-```
-sudo snap install kubectl --classic
-```
-
 ---
 > [!CAUTION]
 > If the following error is occured when starting Minikube: 
